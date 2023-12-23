@@ -1,4 +1,4 @@
-## Hello World!👋 
+## About ME!👋 
 
 <h4>🚀 3년 차 경희대학교 학부생, 체육과 소프트웨어와의 융합을 꿈꾸다(Dream of Convergence with Physical Education and Software) </h4>
 
