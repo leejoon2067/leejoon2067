@@ -24,8 +24,8 @@
 
 
 ### - 📫 How to reach me: ...
-<a href="[https://jhklee-coder.tistory.com/]" target="_blank"><img src="https://img.shields.io/badge/[Tistory]-[000000]?style=flat-square&logo=[Tistory]&logoColor=white"/></a> <br>
-<a href="[https://www.instagram.com/jhk_01_22/]" target="_blank"><img src="https://img.shields.io/badge/[Instagram]-[000000]?style=flat-square&logo=[Tistory]&logoColor=white"/></a>
+<a href="[https://jhklee-coder.tistory.com/]" target="(https://jhklee-coder.tistory.com/)"><img src="https://img.shields.io/badge/[Tistory]-[000000]?style=flat-square&logo=[Tistory]&logoColor=white"/></a> <br>
+<a href="[https://www.instagram.com/jhk_01_22/]" target="https://www.instagram.com/jhk_01_22/"><img src="https://img.shields.io/badge/[Instagram]-[000000]?style=flat-square&logo=[Tistory]&logoColor=white"/></a>
 <!--
 **leejoon2067/leejoon2067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
