@@ -2,7 +2,7 @@
 <h3>🚀 소프트웨어와 체육의 융합을 꿈꾸는 병아리 기획자(Dream of Convergence with Software and P.E) </h3>
 <p align="center">
  
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JHK's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=175" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JHK's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=160" alt="header">
 </p>
 <!-- <img src="https://img.shields.io/badge/작성하려는 텍스트-색상코드?style=flat-square&logo=아이콘명&logoColor=white"/> -->
 
