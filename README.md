@@ -20,10 +20,11 @@
 기록의 중요성과 기쁨...을 몸소 느끼고 시작하는 중!!👩‍🚀
 </p>
 
+<!--
 ### 🌱 I’m currently learning ...
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 - <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
+-->
 <!-- ### - 📫 How to reach me: ...**leejoon2067/leejoon2067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="[https://jhklee-coder.tistory.com/]" target="(https://jhklee-coder.tistory.com/)"><img src="https://img.shields.io/badge/[Tistory]-[000000]?style=flat-square&logo=[Tistory]&logoColor=white"/></a> <br>
 <a href="[https://www.instagram.com/jhk_01_22/]" target="https://www.instagram.com/jhk_01_22/"><img src="https://img.shields.io/badge/[Instagram]-[000000]?style=flat-square&logo=[Tistory]&logoColor=white"/></a>
