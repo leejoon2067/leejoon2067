@@ -1,5 +1,5 @@
 ## About ME!👋 
-<h3>🚀 소프트웨어와 체육의 융합을 꿈꾸는 병아리 기획자(Dream of Convergence with Software and P.E) </h3>
+<h3>🚀 소프트웨어와 체육의 융합을 꿈꾸는 병아리 기획/개발자(Dream of Convergence with Software and P.E) </h3>
 <p align="center">
  
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JHK's%20GitHub%20👋&animation=twinkling&fontSize=50&fontAlignY=50&fontAlign=50&height=100" alt="header">
