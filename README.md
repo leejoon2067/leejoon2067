@@ -25,10 +25,10 @@
 ✍🏻 **Project Manange & Planning** <br>
 <br>
 
-## 📭 Github & Blog
+<!-- ## 📭 Github & Blog
 [![leejoon2067's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejoon2067)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-<br>
+<br>-->
 
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jhklee-coder.tistory.com)](https://jhklee-coder.tistory.com/)
