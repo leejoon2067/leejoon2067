@@ -7,22 +7,23 @@
 <br>
 
 ## 🔅 Experience & Awards
-- Drepos (Kyunghee Univ Sports Marketing Club) <sub>2021.03~2021.07</sub>
-- KHUDA (Kyunghee Univ Data Analysis & AI Club) 4th 'member' <sub>2023.08 ~ 2023.12</sub>
-  - 4기 Data Business Track (member)
-- KHUDA (Kyunghee Univ Data Analysis & AI Central Club) 5th 'Operate & Plan Manager' <sub>2024.01 ~ 2024.06</sub>
-  - 5기 운영진 (기획부장)
-  - Recommendation System Track (Member)
-  - Natural Language Processing Track (Leader) <sub> 🥉 Excellence Prize Award </sub>
-- KHUTHON (Kyunhee Univ Hackathon <sub>2024.05</sub> <sub> 🥈 Grand Prize Award </sub>
+- `Drepos` (Kyunghee Univ Sports Marketing Club) <sub>2021.03~2021.07</sub>
+- `KHUDA` (Kyunghee Univ Data Analysis & AI Club) 4th member <sub>2023.08 ~ 2023.12</sub>
+  - 4기 회원
+  - Data Business Track member
+- `KHUDA` (Kyunghee Univ Data Analysis & AI Central Club) 5th Operate & Plan Manager <sub>2024.01 ~ 2024.06</sub>
+  - 5기 운영진
+  - Recommendation System Track Member
+  - Natural Language Processing Track Leader <sub> 🥉 Conference Excellence Prize</sub>
+- `KHUTHON` (Kyunhee Univ Hackathon) <sub>2024.05</sub> <sub> 🥈 Grand Prize </sub>
 <br> 
 
 ## 🌱 I’m currently learning ... 
-- 🤖 **Machine Learning & Deep Learning** <br>
-- 🗂️ **Data Science & Engineering** <br>
-- 🔡 **Natural Language Processing** <br>
-- 🛜 Computer Network Process <br>
-- ✍🏻 Project Manange & Planning <br>
+- 🤖 `Machine Learning & Deep Learning` <br>
+- 🗂️ `Data Science & Engineering` <br>
+- 🔡 `Natural Language Processing` <br>
+- ✍🏻 `Project Manange & Planning` <br>
+- 🛜 `Computer Network Process` <br>
 <br>
 
 <!-- ## 📭 Github & Blog
