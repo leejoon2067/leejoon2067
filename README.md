@@ -2,7 +2,7 @@
 #### 🚀 소프트웨어와 체육의 융합을 꿈꾸는 병아리 기획/개발자(Dream of Convergence with Software and P.E)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JHK's%20GitHub%20👋&animation=twinkling&fontSize=48&fontAlignY=50&fontAlign=50&height=83" alt="header"> </p>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20JHK's%20GitHub%20👋&animation=twinkling&fontSize=48&fontAlignY=50&fontAlign=50&height=80" alt="header"> </p>
 <br>
 
 ## 🔅 Experience & Awards
@@ -14,7 +14,7 @@
   - 5기 운영진
   - Recommendation System Track Member
   - Natural Language Processing Track Leader <sub> 🥉 Conference Excellence Prize</sub>
-- `KHUTHON` (Kyunhee Univ Hackathon) <sub>2024.05</sub> <sub> 🥈 Grand Prize </sub>
+- `KHUTHON` (2024 Kyunhee Univ Hackathon) - ESG 부문 <sub>2024.05</sub> <sub> 🥈 Grand Prize </sub>
 <br> 
 
 ## 🌱 I’m currently learning ... 
