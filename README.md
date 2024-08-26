@@ -7,6 +7,7 @@
 
 ## 🔅 Experience & Awards
 - `Drepos` (Kyunghee Univ Sports Marketing Club) <sub>2021.03~2021.07</sub>
+  - 22기 학회원
 - `KHUDA` (Kyunghee Univ Data Analysis & AI Club) 4th member <sub>2023.08 ~ 2023.12</sub>
   - 4기 회원
   - Data Business Track member
@@ -14,7 +15,9 @@
   - 5기 운영진
   - Recommendation System Track Member
   - Natural Language Processing Track Leader <sub> 🥉 Conference Excellence Prize</sub>
-- `KHUTHON` (2024 Kyunhee Univ Hackathon) - ESG 부문 <sub>2024.05</sub> <sub> 🥈 Grand Prize </sub>
+- `KHUTHON` (2024 Kyunhee Univ Hackathon - ESG 부문) AI part <sub>2024.05</sub> <sub> 🥈 Grand Prize </sub>
+- `K-HTML` (2024 K-HTML Hackathon) <sub>2024.07</sub> <sub> </sub>
+
 <br> 
 
 ## 🌱 I’m currently learning ... 
