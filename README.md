@@ -9,12 +9,12 @@
 - `KHUDA` (Kyunghee Univ Data Analysis & AI Club) 4th member <sub>2023.08 ~ 2023.12</sub>
   - 4th member & Data Business Track member
 - `KHUDA` (Kyunghee Univ Data Analysis & AI Central Club) 5th Operate & Plan Manager <sub>2024.01 ~ 2024.06</sub>
-  - 5th planning & operating team & NLP Track Leader <sub> 🥉 Conference Excellence Award </sub>
+  - 5th planning & operating team & NLP Track Leader 
 - `KHUTHON` (2024 Kyunhee Univ Hackathon - ESG 부문) AI-LLM part <sub>2024.05</sub>
-  - '도시농업플랫폼 Cifarm' <sub> 🥈 Grand Prize Award </sub>
+  - '도시농업플랫폼 Cifarm'
 - `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - 데이터분석) <sub>2024.08 ~ 2024.12</sub>
-  - 한국경제신문사 아이디어 경진대회 장려상 <sub> Encouragement award </sub>
-  - 고려대학교 지능정보sw 아카데미 최종 프로젝트 '현명한 금융 생활 FinWise' <sub> 🥉Excellence Award </sub>
+  - 한국경제신문사 아이디어 경진대회
+  - 고려대학교 지능정보sw 아카데미 최종 프로젝트 '현명한 금융 생활 FinWise'
 - `FutureWorkLab` **AI Engineering & Research 인턴** <sub>2025.01 ~ </sub>
 <br>
 
@@ -22,9 +22,9 @@
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|
-| `2024.05` | KyungHee Univ KHUTHON | Grand Prize  |
-| `2024.10` | 한국경제신문사 Idea Competition | Encouragement Award |
-| `2024.12` | Korea Univ Final Competition | Excellence Award  |
+| `2024.05` | KyungHee Univ KHUTHON | 🥈 Grand Prize  |
+| `2024.10` | 한국경제신문사 Idea Competition | 🥉 Encouragement Award |
+| `2024.12` | Korea Univ INISW Academy 5th Final Competition | 🥉 Excellence Award  |
 <br>
 
 ## 🛠️ Skills 🛠️
