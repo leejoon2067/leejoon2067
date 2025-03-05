@@ -5,19 +5,31 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Joon's%20GitHub%20👋&animation=twinkling&fontSize=48&fontAlignY=50&fontAlign=50&height=80" alt="header"> </p>
 <br>
 
-## 🔅 Experience & Awards
+## 🔅 Experience & Projects
 - `KHUDA` (Kyunghee Univ Data Analysis & AI Club) 4th member <sub>2023.08 ~ 2023.12</sub>
-  - 4기 회원
-  - 데이터비즈니스 Track member
+  - 4th member & Data Business Track member
 - `KHUDA` (Kyunghee Univ Data Analysis & AI Central Club) 5th Operate & Plan Manager <sub>2024.01 ~ 2024.06</sub>
-  - 5기 운영진
-  - 자연어처리 Track Leader <sub> 🥉 Conference Excellence Award </sub>
-- `KHUTHON` (2024 Kyunhee Univ Hackathon - ESG 부문) AI part <sub>2024.05</sub>
-  - 도시농업플랫폼 Cifarm <sub> 🥈 Grand Prize Award </sub>
+  - 5th planning & operating team & NLP Track Leader <sub> 🥉 Conference Excellence Award </sub>
+- `KHUTHON` (2024 Kyunhee Univ Hackathon - ESG 부문) AI-LLM part <sub>2024.05</sub>
+  - '도시농업플랫폼 Cifarm' <sub> 🥈 Grand Prize Award </sub>
 - `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - 데이터분석) <sub>2024.08 ~ 2024.12</sub>
   - 한국경제신문사 아이디어 경진대회 장려상 <sub> Encouragement award </sub>
-  - 고려대학교 지능정보sw 아카데미 최종 프로젝트 우수상 <sub> 🥉Excellence Award </sub>
+  - 고려대학교 지능정보sw 아카데미 최종 프로젝트 '현명한 금융 생활 FinWise' <sub> 🥉Excellence Award </sub>
 - `FutureWorkLab` AI Engineering & Research 인턴 <sub>2025.01 ~ </sub>
+
+## 🏆 Awards 🏆
+
+| Period | Competition | Prize |
+|-------|:--------:|:---------:|
+| `2024.05` | KyungHee Univ KHUTHON | Grand Prize  |
+| `2024.10` | 한국경제신문사 Idea Competition | Encouragement Award |
+| `2024.12` | Korea Univ Final Competition | Excellence Award  |
+
+## Skills
+
+#### Language : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white"> 
+
+#### Framework : <img src="https://img.shields.io/badge/Langchain-E34F26?style=for-the-badge&logo=Langchain&logoColor=white"> <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge&logo=LangGraph&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-D00000?style=for-the-badge&logo=fastapi&logoColor=white"> 
 
 <br> 
 
@@ -36,8 +48,7 @@
 
 ## :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://jhklee-coder.tistory.com)](https://jhklee-coder.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejoon2067@gmail.com)](mailto:leejoon2067@gmail.com/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:leejoon3125@naver.com)](mailto:leejoon3125@naver.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejoon2067@khu.ac.kr)](mailto:leejoon2067@khu.ac.kr/)
 
 <!--
 - 🔭 I’m currently working on ...
