@@ -16,6 +16,7 @@
   - 한국경제신문사 아이디어 경진대회 장려상 <sub> Encouragement award </sub>
   - 고려대학교 지능정보sw 아카데미 최종 프로젝트 '현명한 금융 생활 FinWise' <sub> 🥉Excellence Award </sub>
 - `FutureWorkLab` AI Engineering & Research 인턴 <sub>2025.01 ~ </sub>
+<br>
 
 ## 🏆 Awards 🏆
 
@@ -24,12 +25,13 @@
 | `2024.05` | KyungHee Univ KHUTHON | Grand Prize  |
 | `2024.10` | 한국경제신문사 Idea Competition | Encouragement Award |
 | `2024.12` | Korea Univ Final Competition | Excellence Award  |
+<br>
 
-## Skills
+## 🛠️ Skills 🛠️
 
-#### Language : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white"> 
+- #### Language : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white"> 
 
-#### Framework : <img src="https://img.shields.io/badge/Langchain-E34F26?style=for-the-badge&logo=Langchain&logoColor=white"> <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge&logo=LangGraph&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-D00000?style=for-the-badge&logo=fastapi&logoColor=white"> 
+- #### Framework : <img src="https://img.shields.io/badge/Langchain-E34F26?style=for-the-badge&logo=Langchain&logoColor=white"> <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge&logo=LangGraph&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-D00000?style=for-the-badge&logo=fastapi&logoColor=white"> 
 
 <br> 
 
