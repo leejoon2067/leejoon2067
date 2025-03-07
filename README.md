@@ -24,7 +24,7 @@
 |-------|:--------:|:---------:|
 | `2024.05` | KyungHee Univ KHUTHON | 🥈 Grand Prize  |
 | `2024.10` | 한국경제신문사 Idea Competition | 🥉 Encouragement Award |
-| `2024.12` | Korea Univ INISW Academy 5th Final Competition | 🥉 Excellence Award  |
+| `2024.12` | Korea Univ INISW Ac 5th Final Competition | 🥉 Excellence Award  |
 <br>
 
 ## 🛠️ Skills 🛠️
