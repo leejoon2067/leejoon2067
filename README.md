@@ -15,7 +15,7 @@
 - `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - 데이터분석) <sub>2024.08 ~ 2024.12</sub>
   - 한국경제신문사 아이디어 경진대회
   - 고려대학교 지능정보sw 아카데미 최종 프로젝트 '현명한 금융 생활 FinWise'
-- `FutureWorkLab` **AI Engineering & Research 부문** 인턴 <sub>2025.01 ~ </sub>
+- `FutureWorkLab` **AI Engineering & Research 부문** 인턴 <sub>2025.01 ~ 2025.07</sub>
   - <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge?style=for-the-badge&logo=langgraph"> <img src = "https://img.shields.io/badge/BERT-8A2BE2"> <img src = "https://img.shields.io/badge/GPT-20B2AA">
 <br>
 
