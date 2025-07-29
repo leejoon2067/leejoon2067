@@ -13,10 +13,11 @@
 - `KHUTHON` (2024 Kyunhee Univ Hackathon - ESG 부문) AI-LLM part <sub>2024.05</sub>
   - '도시농업플랫폼 Cifarm'
 - `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - 데이터분석) <sub>2024.08 ~ 2024.12</sub>
-  - 한국경제신문사 아이디어 경진대회
-  - 고려대학교 지능정보sw 아카데미 최종 프로젝트 '현명한 금융 생활 FinWise'
-- `FutureWorkLab` **AI Engineering & Research 부문** 인턴 <sub>2025.01 ~ 2025.07</sub>
-  - <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge?style=for-the-badge&logo=langgraph"> <img src = "https://img.shields.io/badge/BERT-8A2BE2"> <img src = "https://img.shields.io/badge/GPT-20B2AA">
+  - '현명한 금융 생활 FinWise'
+- `FutureWorkLab` **AI Engineering & Researcher Intern** <sub>2025.01 ~ 2025.07</sub>
+  - '나만의 세컨드 브레인 '[LinkBrain](https://www.linkbrain.kr/)'
+  -  인턴 jo._.on__ 의 '[인턴일기](https://www.futureworklab.co.kr/articles/3)'
+- `AIMS Lab` [@KHU](https://sites.google.com/view/khu-aims/home?authuser=0) **Undergraduate Intern Researcher** <sub>2025.07 ~ </sub>
 <br>
 
 ## 🏆 Awards 🏆
@@ -30,15 +31,15 @@
 
 ## 🛠️ Skills 🛠️
 
-- #### Language : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/R-00599C?style=for-the-badge&logo=R&logoColor=white"> 
+- #### Language : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart&logoColor=white"> 
 
-- #### Framework : <img src="https://img.shields.io/badge/Langchain-E34F26?style=for-the-badge&logo=Langchain&logoColor=white"> <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge&logo=LangGraph&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-D00000?style=for-the-badge&logo=fastapi&logoColor=white"> 
+- #### Framework : <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge?style=for-the-badge&logo=langgraph"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-D00000?style=for-the-badge&logo=fastapi&logoColor=white">
 
 <br> 
 
 ## 🌱 I’m currently learning ... 
 - 🤖 `Machine Learning & Deep Learning` <br>
-- 🗂️ `Data Science & Engineering` <br>
+- 🗂️ `Data Science & AI Engineering` <br>
 - 🔡 `Natural Language Processing` <br>
 - ✍🏻 `Project Manange & Planning` <br>
 - 🛜 `Computer Network Process` <br>
