@@ -20,7 +20,7 @@
 - `AIMS Lab` [@KHU](https://sites.google.com/view/khu-aims/home?authuser=0) **Undergraduate Intern Researcher** <sub>2025.07 ~ </sub>
 <br>
 
-## 🏆 Awards 🏆
+## 🏆 Awards 
 
 | Period | Competition | Prize |
 |-------|:--------:|:---------:|
@@ -29,11 +29,13 @@
 | `2024.12` | Korea Univ INISW Ac 5th Final Competition | 🥉 Excellence Award  |
 <br>
 
-## 🛠️ Skills 🛠️
+## 🛠️ Skills 
 
 - #### Language : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=Dart&logoColor=white"> 
 
-- #### Framework : <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge?style=for-the-badge&logo=langgraph"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-D00000?style=for-the-badge&logo=fastapi&logoColor=white">
+- #### Framework : <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/Langgraph-1572B6?style=for-the-badge?style=for-the-badge&logo=langgraph">
+
+- #### Tools : <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-D00000?style=for-the-badge&logo=fastapi&logoColor=white">  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> 
 
 <br> 
 
