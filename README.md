@@ -16,7 +16,7 @@
   - '현명한 금융 생활 FinWise'
 - `FutureWorkLab` **AI Engineering & Researcher Intern** <sub>2025.01 ~ 2025.07</sub>
   - '나만의 세컨드 브레인 '[LinkBrain](https://www.linkbrain.kr/)'
-  -  인턴 jo._.on__ 의 '[인턴일기](https://www.futureworklab.co.kr/articles/3)'
+  - jo._.on__ 의 '[인턴일기](https://www.futureworklab.co.kr/articles/3)'
 - `AIMS Lab` [@KHU](https://sites.google.com/view/khu-aims/home?authuser=0) **Undergraduate Intern Researcher** <sub>2025.07 ~ </sub>
 <br>
 
