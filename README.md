@@ -3,13 +3,14 @@
 <br>
 
 ## 🔅 Experience & Projects
-- `KHUDA` (Kyunghee Univ Data Analysis & AI Club) 4th member <sub>2023.08 ~ 2023.12</sub>
+- `KHUDA` (Kyunghee Univ Data Analysis & AI Club) 4th <sub>2023.08 ~ 2023.12</sub>
   - 4th member & Data Business Track member
-- `KHUDA` (Kyunghee Univ Data Analysis & AI Central Club) 5th Operate & Plan Manager <sub>2024.01 ~ 2024.06</sub>
-  - 5th planning & operating team & NLP Track Leader 
+- `KHUDA` (Kyunghee Univ Data Analysis & AI Central Club) 5th <sub>2024.01 ~ 2024.06</sub>
+  -  Head of Planning and Operations & NLP Track Leader
+  - '5기 텍(Tech)톡(Talk) 운영' [Tech-TALK](https://www.notion.so/Tech-Talk-a16ee254728c4ef195cd919a785e8b0a?source=copy_link)'
 - `KHUTHON` (2024 Kyunhee Univ Hackathon - ESG 부문) AI-LLM part <sub>2024.05</sub>
   - '도시농업플랫폼 Cifarm'
-- `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - 데이터분석) <sub>2024.08 ~ 2024.12</sub>
+- `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - Data Science & AI) <sub>2024.08 ~ 2024.12</sub>
   - '현명한 금융 생활 FinWise'
 - `FutureWorkLab` **AI Engineering & Researcher Intern** <sub>2025.01 ~ 2025.07</sub>
   - '나만의 세컨드 브레인 '[LinkBrain](https://www.linkbrain.kr/)'
