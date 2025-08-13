@@ -12,7 +12,7 @@
   - '도시농업플랫폼 Cifarm'
 - `KU-SW Academy 5th` (2024 [고려대 지능정보 SW아카데미] 5기 - Data Science & AI) <sub>2024.08 ~ 2024.12</sub>
   - '현명한 금융 생활 FinWise'
-- `FutureWorkLab` **AI Engineering & Researcher Intern** <sub>2025.01 ~ 2025.07</sub>
+- `FutureWorkLab` **AI Engineering & Research Intern** <sub>2025.01 ~ 2025.07</sub>
   - '나만의 세컨드 브레인 '[LinkBrain](https://www.linkbrain.kr/)'
   - jo._.on__ 의 '[인턴일기](https://www.futureworklab.co.kr/articles/3)'
 - `AIMS Lab` [@KHU](https://sites.google.com/view/khu-aims/home?authuser=0) **Undergraduate Intern Researcher** <sub>2025.07 ~ </sub>
